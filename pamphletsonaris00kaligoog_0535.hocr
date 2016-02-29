@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pamphletsonaris00kaligoog_0535.png"; bbox 0 0 1431 1367; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 384 34 1055 461">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 384 34 1055 461">
+     <span class='ocr_line' id='line_1_1' title="bbox 384 34 1055 461; baseline 0 906"><span class='ocrx_word' id='word_1_1' title='bbox 384 34 1055 461; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 637 467 737 487">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 637 467 737 487">
+     <span class='ocr_line' id='line_1_2' title="bbox 637 467 737 487; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 637 467 737 487; x_wconf 76' lang='lat' dir='ltr'><strong>HERRN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 422 530 956 568">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 422 530 956 568">
+     <span class='ocr_line' id='line_1_3' title="bbox 422 530 956 568; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 422 532 466 564; x_wconf 70' lang='lat'>13¹·</span> <span class='ocrx_word' id='word_1_4' title='bbox 494 531 724 563; x_wconf 75' lang='lat' dir='ltr'>HEINRIOH</span> <span class='ocrx_word' id='word_1_5' title='bbox 751 530 956 568; x_wconf 82' lang='lat' dir='ltr'>WUTTKE,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 454 577 925 585">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 454 577 925 585">
+     <span class='ocr_line' id='line_1_4' title="bbox 454 577 925 585; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 454 577 925 585; x_wconf 51' lang='lat' dir='ltr'><strong>uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 538 683 844 701">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 538 683 844 701">
+     <span class='ocr_line' id='line_1_5' title="bbox 538 683 844 701; baseline -0.003 0"><span class='ocrx_word' id='word_1_7' title='bbox 538 684 603 701; x_wconf 68' lang='lat' dir='ltr'><strong>sulm(</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 612 684 764 701; x_wconf 72' lang='lat' dir='ltr'><strong>EUOEVEBRHRTEN</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 775 683 844 701; x_wconf 77' lang='lat' dir='ltr'><strong>LEfflOER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 546 909 882 922">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 546 909 882 922">
+     <span class='ocr_line' id='line_1_6' title="bbox 546 909 882 922; baseline -0.003 0"><span class='ocrx_word' id='word_1_10' title='bbox 546 910 577 922; x_wconf 74' lang='lat' dir='ltr'><strong>ALs</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 586 909 677 922; x_wconf 72' lang='lat' dir='ltr'>AUSDRUCK</span> <span class='ocrx_word' id='word_1_12' title='bbox 685 909 749 922; x_wconf 68' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 757 909 882 922; x_wconf 66' lang='lat' dir='ltr'><strong>mmmmm·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
